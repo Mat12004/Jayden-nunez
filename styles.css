@@ -1,0 +1,48 @@
+body {
+    background:beige; 
+    padding: 10px;
+}
+h1 {
+    background: silver;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+}
+h2 {
+    background: silver;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+}
+h3 {
+    background: silver;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 35px;
+}
+h4{
+   background: silver; 
+   text-align: center;
+   font-family: 'Bebas Neue', cursive;
+   font-size: 30px;
+}
+p {
+   color: silver;
+   background: black;
+   text-align: center;
+   font-family: 'Teko', sans-serif;
+   font-size: 23px;
+}
+img {
+    border: 10px black solid;
+    margin-left: 265px;
+    margin-right: auto;
+}
+a {
+    color: silver;
+    
+}
+a:hover{
+    color: lightblue;
+    font-size: 35px;
+}
